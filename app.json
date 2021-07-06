@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "QR Code Generator + scanner",
+    "android": {
+    
+      "config": {
+     
+        "googleMobileAdsAppId": "ca-app-pub-3624987478965650~7202274697"
+      }
+    }
+  }
+}

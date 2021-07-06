@@ -1,0 +1,46 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "~41.0.1",
+    "expo-status-bar": "~1.0.4",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-41.0.0.tar.gz",
+    "react-native-web": "~0.13.12",
+    "react-navigation": "*",
+    "expo-barcode-scanner": "~10.1.2",
+    "expo-device": "~3.2.0",
+    "expo-av": "~9.1.2",
+    "expo-clipboard": "~1.0.2",
+    "expo-web-browser": "~9.1.0",
+    "@react-navigation/native": "^3.8.4",
+    "expo-ads-admob": "~10.0.4",
+    "expo-sharing": "~9.1.2",
+    "expo-file-system": "~11.0.2",
+    "react-device-detect": "*",
+    "react-native-qrcode-svg": "*",
+    "react-native-svg": "12.1.0",
+    "react-native-fs": "*",
+    "react-native-input-prompt": "*",
+    "react-native-modal-dropdown": "*",
+    "prop-types": "^15.7.2",
+    "react-native-dropdown-picker": "*",
+    "react-native-gesture-handler": "~1.10.2",
+    "ds-react-input-file": "*",
+    "@material-ui/core": "4.11.4",
+    "@types/react": "17.0.0",
+    "react-dropzone": "*",
+    "react-file-upload": "*"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.9.0"
+  },
+  "private": true
+}
